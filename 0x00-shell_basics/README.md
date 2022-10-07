@@ -1,1 +1,1 @@
-I am here
+‘This repository contains solutions to shell tasks’
